@@ -14,10 +14,6 @@
 
 <h2 align="left">🙋‍♂️ About me:</h2>
 
-###
-
-![Uploading icegif-11.gif…]()
-
 <p align="left">✨ Creating bugs since 19th August<br>📚 I'm currently pursuing B.Tech. in Electrical Engineering<br>📫 <b>How to reach me?</b> neelpdr@gmail.com
 <!--📏LINE-->
 <p align="center">
