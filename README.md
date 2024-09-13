@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="center">I am a Third-year EE undergrad and a professional bug writer aka developer (:</h3>
+<h3 align="center">I am a Third-year EE undergrad and a wannabe Cybersecurity professional (:</h3>
 
 <!--📏LINE-->
 <p align="center">
