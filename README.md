@@ -1,5 +1,5 @@
 
-align="center">Hey (●'◡'●), I'm Sayan Poddar</h1>
+Hey (●'◡'●), I'm Sayan Poddar</h1>
 
 <!--📏LINE-->
 <p align="center">
