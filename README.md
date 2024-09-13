@@ -1,4 +1,4 @@
-<h1 ![icegif-11](https://github.com/user-attachments/assets/8ff2010c-a825-4703-bb6c-2ced03a39709)
+https://i.gifer.com/fzUl.gif
 align="center">Hey (●'◡'●), I'm Sayan Poddar</h1>
 
 <!--📏LINE-->
