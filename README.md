@@ -1,6 +1,6 @@
 ![image](https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif)
 
-<h1 align="center">Hey 😏, I'm Sayan Poddar</h1>
+<h1 align="center">Hey (●'◡'●), I'm Sayan Poddar</h1>
 
 <!--📏LINE-->
 <p align="center">
