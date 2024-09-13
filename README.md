@@ -1,4 +1,4 @@
-https://i.gifer.com/fzUl.gif
+
 align="center">Hey (●'◡'●), I'm Sayan Poddar</h1>
 
 <!--📏LINE-->
